@@ -1,0 +1,124 @@
+C:\C-sharp\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\C-sharp\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe
+C:\C-sharp\BilledEditor\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\C-sharp\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\bin\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditorBak\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Users\zbcclol1\Desktop\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\Alt med Urmager\På Michael Laptop\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Users\zbcclol1\Desktop\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Peter\BilledEditor.exe.config
+C:\Peter\BilledEditor.exe
+C:\Peter\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Working\BilledEditor\BilledEditor\bin\Release\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\Working\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe.config
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.exe
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\bin\Release\BilledEditor.pdb
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csprojResolveAssemblyReference.cache
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\MainWindow.g.cs
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\App.g.cs
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.cache
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor_MarkupCompile.lref
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\App.baml
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\MainWindow.baml
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.g.resources
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.Properties.Resources.resources
+C:\Users\zbcclol1\Desktop\WiX\Ur_Setup\BilledEditor\BilledEditor\obj\Debug\BilledEditor.csproj.GenerateResource.Cache
